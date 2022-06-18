@@ -5,3 +5,5 @@
 ### mod_churn is similar but looking across the entire dataset and makes many of the same calculations just with the entire sample not with one individual subreddit.
 
 ### mod_churn_per_subreddit calculates mod churn for each subreddit and then appends it to the whole mod dataset and is the most efficient method.  I also compared moderator data to subscriber data. 
+
+### mod_data.txt is the sample of subreddits and its corresponding mod data.
